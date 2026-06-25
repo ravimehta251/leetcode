@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        Set<Integer> linkedHashSet = new LinkedHashSet<>(); 
+        Set<Integer> linkedHashSet = new HashSet<>(); 
         int p = 0; long sum = 0, max = 0;
 
         for (int i = 0; i < nums.length; i++) {
