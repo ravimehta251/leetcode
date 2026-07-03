@@ -21,7 +21,6 @@ class Solution {
 
         Node curr = head;
 
-        // Create copies of all nodes
         while (curr != null) {
             map.put(curr, new Node(curr.val));
             curr = curr.next;
@@ -29,7 +28,7 @@ class Solution {
 
         curr = head;
 
-        // Set next and random pointers
+     
         while (curr != null) {
             map.get(curr).next = map.get(curr.next);
             map.get(curr).random = map.get(curr.random);
