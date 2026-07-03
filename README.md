@@ -382,8 +382,18 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimehta251/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimehta251/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
