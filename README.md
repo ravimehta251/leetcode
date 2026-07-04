@@ -401,6 +401,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
@@ -408,6 +409,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
@@ -415,7 +417,16 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
