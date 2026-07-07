@@ -406,6 +406,7 @@ It motivates me to continue solving problems every single day.
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
@@ -455,4 +456,8 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
