@@ -459,5 +459,10 @@ It motivates me to continue solving problems every single day.
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ravimehta251/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ravimehta251/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
