@@ -467,4 +467,8 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ravimehta251/leetcode/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravimehta251/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
