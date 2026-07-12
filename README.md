@@ -472,5 +472,14 @@ It motivates me to continue solving problems every single day.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravimehta251/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
