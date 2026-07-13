@@ -513,5 +513,6 @@ It motivates me to continue solving problems every single day.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ravimehta251/leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
