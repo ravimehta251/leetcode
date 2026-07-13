@@ -12,7 +12,7 @@ class Solution {
         int min=len(low),max=len(high);
         String s="123456789";
         for(int i=min;i<=max;i++){
-            for(int j=0;j<11;j++){
+            for(int j=0;j<10;j++){
                 if((j+i)<10){
                 String p=s.substring(j,j+i);
                 int k=Integer.parseInt(p);
