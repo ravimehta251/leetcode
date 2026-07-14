@@ -405,6 +405,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0001-two-sum](https://github.com/ravimehta251/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0162-find-peak-element](https://github.com/ravimehta251/leetcode/tree/master/0162-find-peak-element) |
@@ -435,6 +436,7 @@ It motivates me to continue solving problems every single day.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -515,4 +517,8 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [1291-sequential-digits](https://github.com/ravimehta251/leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
