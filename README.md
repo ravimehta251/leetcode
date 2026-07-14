@@ -409,6 +409,7 @@ It motivates me to continue solving problems every single day.
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ravimehta251/leetcode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ravimehta251/leetcode/tree/master/0260-single-number-iii) |
@@ -442,6 +443,7 @@ It motivates me to continue solving problems every single day.
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
