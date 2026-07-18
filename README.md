@@ -444,6 +444,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
@@ -491,6 +492,7 @@ It motivates me to continue solving problems every single day.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -524,6 +526,7 @@ It motivates me to continue solving problems every single day.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
