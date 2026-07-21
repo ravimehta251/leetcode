@@ -11,9 +11,11 @@ class Solution {
                     i++;
                  }
                  ar.add(coun);
+                
             }
+            if(i<n && s.charAt(i)=='1') count++;
         }
-        for(int i=0;i<n;i++) if(s.charAt(i)=='1') count++;
+       
         int max=0;
         for(int i=1;i<ar.size();i++){
             max=Math.max(max,ar.get(i)+ar.get(i-1));
