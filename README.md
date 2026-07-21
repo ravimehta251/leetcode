@@ -520,6 +520,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ravimehta251/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -538,6 +539,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [1291-sequential-digits](https://github.com/ravimehta251/leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ravimehta251/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
