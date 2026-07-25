@@ -468,6 +468,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/ravimehta251/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
@@ -502,6 +503,7 @@ It motivates me to continue solving problems every single day.
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/ravimehta251/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravimehta251/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
