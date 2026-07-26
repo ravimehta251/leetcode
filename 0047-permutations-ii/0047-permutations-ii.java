@@ -4,9 +4,7 @@ class Solution {
             ar.add(new ArrayList<>(templist));
             return;
         }
-        if(ar.contains(templist)){
-            return;
-        }
+        
         for(int i=0;i<nums.length;i++){
             if(used[i]) continue;
 
