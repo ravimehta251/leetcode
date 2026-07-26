@@ -406,6 +406,7 @@ It motivates me to continue solving problems every single day.
 | [0001-two-sum](https://github.com/ravimehta251/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -469,6 +470,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravimehta251/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravimehta251/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -538,6 +540,7 @@ It motivates me to continue solving problems every single day.
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
