@@ -12,6 +12,10 @@ class Solution {
                 }
             }
             s=p;
+            if(s.equals("")){
+                return s;
+            }
+            
         }
         return s;
     }
