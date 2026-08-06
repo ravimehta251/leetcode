@@ -466,6 +466,7 @@ It motivates me to continue solving problems every single day.
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
+| [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -481,6 +482,7 @@ It motivates me to continue solving problems every single day.
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -565,6 +567,7 @@ It motivates me to continue solving problems every single day.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravimehta251/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
