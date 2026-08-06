@@ -459,6 +459,7 @@ It motivates me to continue solving problems every single day.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravimehta251/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
@@ -474,6 +475,7 @@ It motivates me to continue solving problems every single day.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravimehta251/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
@@ -556,6 +558,7 @@ It motivates me to continue solving problems every single day.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravimehta251/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ravimehta251/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ravimehta251/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -641,4 +644,8 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravimehta251/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
