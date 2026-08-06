@@ -1,24 +1,26 @@
 class Solution {
-    public boolean pali(String s){
-        int i=0,j=s.length()-1;
-        while(i<j){
-            if(s.charAt(i)!=s.charAt(j)){
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
-    }
+    
     public String longestPalindrome(String s) {
         String pal="";
         for(int i=0;i<s.length();i++){
-            for(int j=i+1;j<=s.length();j++){
-                if(s.substring(i,j).length()>pal.length() && pali(s.substring(i,j))){
-                    
-                        pal=s.substring(i,j);
-                    
+            int j=i,k=i;
+            while(0<=j && k<s.length() && s.charAt(j)==s.charAt(k)){
+                
+                if(pal.length()<k-j+1){
+                    pal=s.substring(j,k+1);
                 }
+                j--;
+                k++;
+            }
+            j=i;
+            k=i+1;
+            while(0<=j && k<s.length() && s.charAt(j)==s.charAt(k)){
+                
+                if(pal.length()<k-j+1){
+                    pal=s.substring(j,k+1);
+                }
+                j--;
+                k++;
             }
         }
         return pal;
