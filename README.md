@@ -442,6 +442,7 @@ It motivates me to continue solving problems every single day.
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
@@ -556,6 +557,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -568,6 +570,7 @@ It motivates me to continue solving problems every single day.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
