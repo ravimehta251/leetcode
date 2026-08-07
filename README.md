@@ -4,14 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Consistency+Beats+Talent.;One+Problem+Every+Day.;Code.+Learn.+Improve.+Repeat.;Welcome+to+My+LeetCode+Journey!"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Repository+Views&color=0e75b6&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ravimehta251&label=Repository+Views&color=0e75b6&style=flat)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/ravimehta251/leetcode?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/ravimehta251/leetcode?style=for-the-badge)
+![GitHub Top Language](https://img.shields.io/github/languages/top/ravimehta251/leetcode?style=for-the-badge)
+![GitHub Language Count](https://img.shields.io/github/languages/count/ravimehta251/leetcode?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/ravimehta251/leetcode?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/ravimehta251/leetcode?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/ravimehta251/leetcode?style=for-the-badge)
 
 </div>
 
