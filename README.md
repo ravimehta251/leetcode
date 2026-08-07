@@ -383,6 +383,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0001-two-sum](https://github.com/ravimehta251/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimehta251/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
@@ -415,6 +416,7 @@ It motivates me to continue solving problems every single day.
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -495,6 +497,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ravimehta251/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -575,6 +578,7 @@ It motivates me to continue solving problems every single day.
 | [0014-longest-common-prefix](https://github.com/ravimehta251/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
