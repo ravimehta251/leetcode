@@ -384,6 +384,7 @@ It motivates me to continue solving problems every single day.
 | [0001-two-sum](https://github.com/ravimehta251/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimehta251/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
@@ -424,6 +425,7 @@ It motivates me to continue solving problems every single day.
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ravimehta251/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ravimehta251/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -688,4 +690,8 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
