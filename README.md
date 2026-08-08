@@ -422,6 +422,7 @@ It motivates me to continue solving problems every single day.
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
@@ -494,6 +495,7 @@ It motivates me to continue solving problems every single day.
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
@@ -506,6 +508,7 @@ It motivates me to continue solving problems every single day.
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ravimehta251/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
@@ -697,4 +700,12 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
