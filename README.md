@@ -424,6 +424,7 @@ It motivates me to continue solving problems every single day.
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ravimehta251/leetcode/tree/master/0162-find-peak-element) |
@@ -493,6 +494,7 @@ It motivates me to continue solving problems every single day.
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -504,6 +506,7 @@ It motivates me to continue solving problems every single day.
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ravimehta251/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
