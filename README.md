@@ -444,6 +444,7 @@ It motivates me to continue solving problems every single day.
 | [0628-maximum-product-of-three-numbers](https://github.com/ravimehta251/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -520,6 +521,7 @@ It motivates me to continue solving problems every single day.
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravimehta251/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -540,6 +542,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -639,6 +642,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -661,6 +665,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravimehta251/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
@@ -699,6 +704,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -716,4 +722,12 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
