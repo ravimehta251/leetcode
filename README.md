@@ -416,6 +416,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0001-two-sum](https://github.com/ravimehta251/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ravimehta251/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ravimehta251/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -508,6 +509,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravimehta251/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ravimehta251/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -525,6 +527,7 @@ It motivates me to continue solving problems every single day.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravimehta251/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
