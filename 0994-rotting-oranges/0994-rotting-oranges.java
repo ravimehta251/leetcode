@@ -1,14 +1,11 @@
 class Solution {
     public int n,m;
-    public void bfs(int[][] grid, int[][] dp, int i, int j, int t) {
-
-        // Boundary / empty / rotten orange
+    public void bfs(int[][] grid , int[][] dp ,int i ,int j,int t){
         if (i < 0 || i >= n || j < 0 || j >= m ||
             grid[i][j] == 0 || grid[i][j] == 2) {
             return;
         }
-
-        // If already reached faster, stop
+        
         if (dp[i][j] != 0 && dp[i][j] <= t) {
             return;
         }
@@ -19,6 +16,8 @@ class Solution {
         bfs(grid, dp, i + 1, j, t + 1);
         bfs(grid, dp, i, j - 1, t + 1);
         bfs(grid, dp, i, j + 1, t + 1);
+        
+
     }
     public int orangesRotting(int[][] grid) {
          this.n=grid.length;
