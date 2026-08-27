@@ -417,6 +417,7 @@ It motivates me to continue solving problems every single day.
 | [0001-two-sum](https://github.com/ravimehta251/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ravimehta251/leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravimehta251/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
@@ -507,6 +508,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravimehta251/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/ravimehta251/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ravimehta251/leetcode/tree/master/0075-sort-colors) |
