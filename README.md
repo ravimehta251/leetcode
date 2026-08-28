@@ -385,6 +385,7 @@ It motivates me to continue solving problems every single day.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravimehta251/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ravimehta251/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimehta251/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
@@ -573,6 +574,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravimehta251/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ravimehta251/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravimehta251/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -651,6 +653,7 @@ It motivates me to continue solving problems every single day.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ravimehta251/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
