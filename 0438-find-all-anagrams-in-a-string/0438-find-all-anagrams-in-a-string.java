@@ -18,11 +18,15 @@ class Solution {
                    
                     ch1[s.charAt(i)-'a']--;
                      i++;
+                     if(len2==0){
+                        ar.add(j);
+                        ch1[s.charAt(j)-'a']++;
+                        j++;
+                        len2++;
+                     }
 
                 }
-                if(len2==0){
-                    ar.add(j);
-                }
+                
             }
             i=j;
         }
