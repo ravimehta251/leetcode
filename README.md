@@ -445,6 +445,7 @@ It motivates me to continue solving problems every single day.
 | [0164-maximum-gap](https://github.com/ravimehta251/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimehta251/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ravimehta251/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -572,6 +573,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravimehta251/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravimehta251/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -597,6 +599,7 @@ It motivates me to continue solving problems every single day.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ravimehta251/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimehta251/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ravimehta251/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
@@ -666,6 +669,7 @@ It motivates me to continue solving problems every single day.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravimehta251/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 ## Backtracking
