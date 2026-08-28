@@ -802,4 +802,8 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ravimehta251/leetcode/tree/master/0881-boats-to-save-people) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
