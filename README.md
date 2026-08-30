@@ -398,6 +398,7 @@ It motivates me to continue solving problems every single day.
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravimehta251/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ravimehta251/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ravimehta251/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ravimehta251/leetcode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -462,6 +463,7 @@ It motivates me to continue solving problems every single day.
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ravimehta251/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ravimehta251/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravimehta251/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ravimehta251/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -685,6 +687,7 @@ It motivates me to continue solving problems every single day.
 | [0238-product-of-array-except-self](https://github.com/ravimehta251/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ravimehta251/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ravimehta251/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ravimehta251/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ravimehta251/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimehta251/leetcode/tree/master/1480-running-sum-of-1d-array) |
