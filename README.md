@@ -479,6 +479,7 @@ It motivates me to continue solving problems every single day.
 | [1480-running-sum-of-1d-array](https://github.com/ravimehta251/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ravimehta251/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravimehta251/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/ravimehta251/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -732,6 +733,7 @@ It motivates me to continue solving problems every single day.
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/ravimehta251/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ravimehta251/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravimehta251/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
