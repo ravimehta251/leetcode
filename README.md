@@ -485,6 +485,7 @@ It motivates me to continue solving problems every single day.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravimehta251/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/ravimehta251/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ravimehta251/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -637,6 +638,7 @@ It motivates me to continue solving problems every single day.
 | [3536-maximum-product-of-two-digits](https://github.com/ravimehta251/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravimehta251/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ravimehta251/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
