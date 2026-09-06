@@ -456,6 +456,7 @@ It motivates me to continue solving problems every single day.
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ravimehta251/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ravimehta251/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ravimehta251/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ravimehta251/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -543,6 +544,7 @@ It motivates me to continue solving problems every single day.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimehta251/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ravimehta251/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ravimehta251/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/ravimehta251/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
@@ -614,6 +616,7 @@ It motivates me to continue solving problems every single day.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimehta251/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ravimehta251/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ravimehta251/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ravimehta251/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -645,6 +648,7 @@ It motivates me to continue solving problems every single day.
 | [0201-bitwise-and-of-numbers-range](https://github.com/ravimehta251/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ravimehta251/leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ravimehta251/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/ravimehta251/leetcode/tree/master/0476-number-complement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
@@ -780,6 +784,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ravimehta251/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -817,6 +822,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ravimehta251/leetcode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/ravimehta251/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Breadth-First Search
 |  |
