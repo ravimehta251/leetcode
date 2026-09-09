@@ -408,6 +408,7 @@ It motivates me to continue solving problems every single day.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ravimehta251/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimehta251/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
 ## Design
@@ -660,6 +661,7 @@ It motivates me to continue solving problems every single day.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ravimehta251/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
