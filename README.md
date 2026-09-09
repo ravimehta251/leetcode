@@ -414,6 +414,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/ravimehta251/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ravimehta251/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
@@ -494,6 +495,7 @@ It motivates me to continue solving problems every single day.
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravimehta251/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/ravimehta251/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ravimehta251/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimehta251/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -583,6 +585,7 @@ It motivates me to continue solving problems every single day.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ravimehta251/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
