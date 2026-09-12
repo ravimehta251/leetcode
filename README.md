@@ -641,6 +641,7 @@ It motivates me to continue solving problems every single day.
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0390-elimination-game](https://github.com/ravimehta251/leetcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -674,6 +675,7 @@ It motivates me to continue solving problems every single day.
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ravimehta251/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0390-elimination-game](https://github.com/ravimehta251/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
