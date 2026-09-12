@@ -524,6 +524,7 @@ It motivates me to continue solving problems every single day.
 | [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
@@ -639,6 +640,7 @@ It motivates me to continue solving problems every single day.
 | [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/ravimehta251/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -671,6 +673,7 @@ It motivates me to continue solving problems every single day.
 | [0021-merge-two-sorted-lists](https://github.com/ravimehta251/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ravimehta251/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ravimehta251/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
@@ -690,6 +693,7 @@ It motivates me to continue solving problems every single day.
 | [0076-minimum-window-substring](https://github.com/ravimehta251/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravimehta251/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -898,8 +902,10 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
