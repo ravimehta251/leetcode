@@ -12,7 +12,6 @@ class Solution {
 
         boolean b = false;
 
-        // Current character matches
         if (i < s.length() &&
             (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.')) {
 
@@ -22,13 +21,13 @@ class Solution {
         boolean a = false;
         boolean c = false;
 
-        // '*' comes after current pattern character
+        
         if (j + 1 < p.length() && p.charAt(j + 1) == '*') {
 
-            // Don't use current character*
+          
             a = is(s, p, i, j + 2);
 
-            // Use current character* to match one character
+           
             if (i < s.length() &&
                 (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.')) {
 
