@@ -710,6 +710,7 @@ It motivates me to continue solving problems every single day.
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravimehta251/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ravimehta251/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravimehta251/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
@@ -755,6 +756,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
