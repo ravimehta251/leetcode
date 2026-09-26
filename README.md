@@ -402,6 +402,7 @@ It motivates me to continue solving problems every single day.
 | [0560-subarray-sum-equals-k](https://github.com/ravimehta251/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ravimehta251/leetcode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ravimehta251/leetcode/tree/master/3731-find-missing-elements) |
@@ -483,6 +484,7 @@ It motivates me to continue solving problems every single day.
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimehta251/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ravimehta251/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -708,6 +710,7 @@ It motivates me to continue solving problems every single day.
 | [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravimehta251/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
