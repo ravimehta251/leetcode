@@ -14,8 +14,9 @@ class Solution {
                     p=p+s.charAt(i);
                     i++;
                 }
-                
-                sr+=map.get(p)==null ? "?":map.get(p);
+                String st=map.get(p);
+               
+                sr+=st==null ? "?":st;
 
             }else{
                 sr=sr+s.charAt(i);
