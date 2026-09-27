@@ -417,6 +417,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ravimehta251/leetcode/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/ravimehta251/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ravimehta251/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
@@ -701,6 +702,7 @@ It motivates me to continue solving problems every single day.
 | [0076-minimum-window-substring](https://github.com/ravimehta251/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
@@ -793,6 +795,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravimehta251/leetcode/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## String Matching
 |  |
 | ------- |
@@ -928,4 +931,8 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
