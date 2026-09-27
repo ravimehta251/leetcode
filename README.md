@@ -455,6 +455,7 @@ It motivates me to continue solving problems every single day.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimehta251/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravimehta251/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ravimehta251/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ravimehta251/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -537,6 +538,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
@@ -703,6 +705,7 @@ It motivates me to continue solving problems every single day.
 | [0125-valid-palindrome](https://github.com/ravimehta251/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ravimehta251/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/ravimehta251/leetcode/tree/master/0394-decode-string) |
@@ -736,6 +739,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimehta251/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
+| [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -796,6 +800,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravimehta251/leetcode/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
