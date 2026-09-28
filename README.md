@@ -511,6 +511,7 @@ It motivates me to continue solving problems every single day.
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -718,6 +719,7 @@ It motivates me to continue solving problems every single day.
 | [0648-replace-words](https://github.com/ravimehta251/leetcode/tree/master/0648-replace-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravimehta251/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -927,6 +929,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
