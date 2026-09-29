@@ -491,6 +491,7 @@ It motivates me to continue solving problems every single day.
 | [0977-squares-of-a-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimehta251/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -600,6 +601,7 @@ It motivates me to continue solving problems every single day.
 | [0881-boats-to-save-people](https://github.com/ravimehta251/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -630,6 +632,7 @@ It motivates me to continue solving problems every single day.
 | [0239-sliding-window-maximum](https://github.com/ravimehta251/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ravimehta251/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -649,6 +652,7 @@ It motivates me to continue solving problems every single day.
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ravimehta251/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 ## Interactive
 |  |
 | ------- |
@@ -732,6 +736,7 @@ It motivates me to continue solving problems every single day.
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
@@ -823,6 +828,7 @@ It motivates me to continue solving problems every single day.
 | [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/ravimehta251/leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
