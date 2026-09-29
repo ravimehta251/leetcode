@@ -402,6 +402,7 @@ It motivates me to continue solving problems every single day.
 | [0560-subarray-sum-equals-k](https://github.com/ravimehta251/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ravimehta251/leetcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/ravimehta251/leetcode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
@@ -421,6 +422,7 @@ It motivates me to continue solving problems every single day.
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/ravimehta251/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ravimehta251/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -717,6 +719,7 @@ It motivates me to continue solving problems every single day.
 | [0567-permutation-in-string](https://github.com/ravimehta251/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/ravimehta251/leetcode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravimehta251/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -807,6 +810,7 @@ It motivates me to continue solving problems every single day.
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/ravimehta251/leetcode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 ## String Matching
 |  |
 | ------- |
@@ -947,4 +951,5 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
