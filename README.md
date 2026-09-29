@@ -498,6 +498,7 @@ It motivates me to continue solving problems every single day.
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ravimehta251/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravimehta251/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/ravimehta251/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -542,6 +543,7 @@ It motivates me to continue solving problems every single day.
 | [0486-predict-the-winner](https://github.com/ravimehta251/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ravimehta251/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ravimehta251/leetcode/tree/master/0647-palindromic-substrings) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
 | ------- |
@@ -550,6 +552,7 @@ It motivates me to continue solving problems every single day.
 | [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -943,6 +946,7 @@ It motivates me to continue solving problems every single day.
 | [0020-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
