@@ -1,15 +1,15 @@
 class Solution {
     public int maxDepth(String s) {
         int max=0;
-        Queue<Character> q=new LinkedList<>();
+        int q=0;
         for(char c:s.toCharArray()){
             if(c=='('){
-                q.add(c);
+                q++;
             }else if(c==')'){
-                q.poll();
+                q--;
             }
-            if(q.size()>max){
-                max=q.size();
+            if(q>max){
+                max=q;
             }
         }
         return max;
