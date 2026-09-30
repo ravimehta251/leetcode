@@ -8,9 +8,7 @@ class Solution {
             }else if(c==')'){
                 q--;
             }
-            if(q>max){
-                max=q;
-            }
+            max=Math.max(max,q);
         }
         return max;
     }
