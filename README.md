@@ -455,6 +455,7 @@ It motivates me to continue solving problems every single day.
 | [0088-merge-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravimehta251/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ravimehta251/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/ravimehta251/leetcode/tree/master/0164-maximum-gap) |
@@ -553,6 +554,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravimehta251/leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
@@ -874,6 +876,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 ## Quicksort
 |  |
 | ------- |
@@ -901,6 +904,7 @@ It motivates me to continue solving problems every single day.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 ## Timsort
 |  |
@@ -976,6 +980,7 @@ It motivates me to continue solving problems every single day.
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
