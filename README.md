@@ -483,6 +483,7 @@ It motivates me to continue solving problems every single day.
 | [0628-maximum-product-of-three-numbers](https://github.com/ravimehta251/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ravimehta251/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/ravimehta251/leetcode/tree/master/0648-replace-words) |
+| [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/ravimehta251/leetcode/tree/master/0724-find-pivot-index) |
@@ -560,6 +561,7 @@ It motivates me to continue solving problems every single day.
 | [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ravimehta251/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -884,6 +886,7 @@ It motivates me to continue solving problems every single day.
 | [0128-longest-consecutive-sequence](https://github.com/ravimehta251/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ravimehta251/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 ## Quicksort
 |  |
 | ------- |
@@ -913,6 +916,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0130-surrounded-regions](https://github.com/ravimehta251/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ravimehta251/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 ## Timsort
 |  |
@@ -993,4 +997,5 @@ It motivates me to continue solving problems every single day.
 | [0200-number-of-islands](https://github.com/ravimehta251/leetcode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ravimehta251/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
