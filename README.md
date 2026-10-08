@@ -405,6 +405,7 @@ It motivates me to continue solving problems every single day.
 | [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/ravimehta251/leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ravimehta251/leetcode/tree/master/1915-number-of-wonderful-substrings) |
@@ -486,6 +487,7 @@ It motivates me to continue solving problems every single day.
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ravimehta251/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ravimehta251/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -612,6 +614,7 @@ It motivates me to continue solving problems every single day.
 | [0349-intersection-of-two-arrays](https://github.com/ravimehta251/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravimehta251/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/ravimehta251/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -750,6 +753,7 @@ It motivates me to continue solving problems every single day.
 | [0677-map-sum-pairs](https://github.com/ravimehta251/leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/ravimehta251/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravimehta251/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ravimehta251/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -896,6 +900,7 @@ It motivates me to continue solving problems every single day.
 | [0547-number-of-provinces](https://github.com/ravimehta251/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 ## Quicksort
 |  |
 | ------- |
@@ -928,6 +933,7 @@ It motivates me to continue solving problems every single day.
 | [0547-number-of-provinces](https://github.com/ravimehta251/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 ## Timsort
 |  |
@@ -1014,6 +1020,7 @@ It motivates me to continue solving problems every single day.
 | [0676-implement-magic-dictionary](https://github.com/ravimehta251/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 ## Graph Theory
 |  |
 | ------- |
