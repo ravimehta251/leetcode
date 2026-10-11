@@ -444,6 +444,7 @@ It motivates me to continue solving problems every single day.
 | [0033-search-in-rotated-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravimehta251/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ravimehta251/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ravimehta251/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ravimehta251/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
@@ -549,6 +550,7 @@ It motivates me to continue solving problems every single day.
 | [0010-regular-expression-matching](https://github.com/ravimehta251/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ravimehta251/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravimehta251/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ravimehta251/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ravimehta251/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ravimehta251/leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/ravimehta251/leetcode/tree/master/0085-maximal-rectangle) |
@@ -827,6 +829,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravimehta251/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ravimehta251/leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ravimehta251/leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/ravimehta251/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ravimehta251/leetcode/tree/master/0881-boats-to-save-people) |
