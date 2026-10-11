@@ -505,6 +505,7 @@ It motivates me to continue solving problems every single day.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ravimehta251/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ravimehta251/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravimehta251/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/ravimehta251/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravimehta251/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -798,6 +799,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [1291-sequential-digits](https://github.com/ravimehta251/leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ravimehta251/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravimehta251/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ravimehta251/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravimehta251/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
