@@ -506,6 +506,7 @@ It motivates me to continue solving problems every single day.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravimehta251/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ravimehta251/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravimehta251/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -629,6 +630,7 @@ It motivates me to continue solving problems every single day.
 | [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravimehta251/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravimehta251/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravimehta251/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravimehta251/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -679,6 +681,7 @@ It motivates me to continue solving problems every single day.
 | [0704-binary-search](https://github.com/ravimehta251/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ravimehta251/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravimehta251/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
