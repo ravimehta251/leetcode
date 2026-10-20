@@ -503,6 +503,7 @@ It motivates me to continue solving problems every single day.
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimehta251/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravimehta251/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -578,6 +579,7 @@ It motivates me to continue solving problems every single day.
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
@@ -920,6 +922,7 @@ It motivates me to continue solving problems every single day.
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quicksort
 |  |
 | ------- |
@@ -955,6 +958,7 @@ It motivates me to continue solving problems every single day.
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Timsort
 |  |
 | ------- |
@@ -1042,6 +1046,7 @@ It motivates me to continue solving problems every single day.
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
