@@ -922,6 +922,7 @@ It motivates me to continue solving problems every single day.
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quicksort
 |  |
@@ -956,6 +957,7 @@ It motivates me to continue solving problems every single day.
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1045,6 +1047,7 @@ It motivates me to continue solving problems every single day.
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
@@ -1052,6 +1055,7 @@ It motivates me to continue solving problems every single day.
 | ------- |
 | [0547-number-of-provinces](https://github.com/ravimehta251/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Indexed Tree
 |  |
@@ -1065,4 +1069,12 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
