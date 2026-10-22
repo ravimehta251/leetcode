@@ -15,13 +15,16 @@ class Solution {
                 if (l == n - 1) {
                     int rotations = (i - n + 1) % n;
 
-                    // Left rotations, or reverse + rotate + reverse.
+                    
                     minl = Math.min(rotations, n - rotations + 2);
                     break;
                 }
             } else {
                 l = 0;
             }
+        }
+        if(minl!=-1){
+            return minl;
         }
 
         l = 0;
@@ -33,7 +36,7 @@ class Solution {
                 l++;
 
                 if (l == n - 1) {
-                    // One reversal, with rotations before or after.
+                    
                     minr = 1 + Math.min(k, n - k);
                     break;
                 }
