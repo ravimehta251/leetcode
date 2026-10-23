@@ -503,6 +503,7 @@ It motivates me to continue solving problems every single day.
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimehta251/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/ravimehta251/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravimehta251/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravimehta251/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -665,6 +666,7 @@ It motivates me to continue solving problems every single day.
 | [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravimehta251/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/ravimehta251/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1061,6 +1063,7 @@ It motivates me to continue solving problems every single day.
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1514-path-with-maximum-probability](https://github.com/ravimehta251/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ravimehta251/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Indexed Tree
@@ -1084,4 +1087,12 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/ravimehta251/leetcode/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/ravimehta251/leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
