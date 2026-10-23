@@ -1061,6 +1061,7 @@ It motivates me to continue solving problems every single day.
 | [0684-redundant-connection](https://github.com/ravimehta251/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ravimehta251/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Indexed Tree
 |  |
@@ -1074,6 +1075,7 @@ It motivates me to continue solving problems every single day.
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ravimehta251/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
 |  |
 | ------- |
