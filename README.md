@@ -498,6 +498,7 @@ It motivates me to continue solving problems every single day.
 | [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravimehta251/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/ravimehta251/leetcode/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/ravimehta251/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -580,6 +581,7 @@ It motivates me to continue solving problems every single day.
 | [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravimehta251/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -928,6 +930,7 @@ It motivates me to continue solving problems every single day.
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quicksort
@@ -966,6 +969,7 @@ It motivates me to continue solving problems every single day.
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Timsort
@@ -1056,6 +1060,7 @@ It motivates me to continue solving problems every single day.
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
