@@ -493,6 +493,7 @@ It motivates me to continue solving problems every single day.
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ravimehta251/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ravimehta251/leetcode/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/ravimehta251/leetcode/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/ravimehta251/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ravimehta251/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ravimehta251/leetcode/tree/master/0912-sort-an-array) |
@@ -580,6 +581,7 @@ It motivates me to continue solving problems every single day.
 | [0200-number-of-islands](https://github.com/ravimehta251/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ravimehta251/leetcode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/ravimehta251/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1260-shift-2d-grid) |
@@ -930,6 +932,7 @@ It motivates me to continue solving problems every single day.
 | [0695-max-area-of-island](https://github.com/ravimehta251/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/ravimehta251/leetcode/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -968,6 +971,7 @@ It motivates me to continue solving problems every single day.
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/ravimehta251/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/ravimehta251/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1060,6 +1064,7 @@ It motivates me to continue solving problems every single day.
 | [0721-accounts-merge](https://github.com/ravimehta251/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ravimehta251/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ravimehta251/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/ravimehta251/leetcode/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/ravimehta251/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ravimehta251/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravimehta251/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
