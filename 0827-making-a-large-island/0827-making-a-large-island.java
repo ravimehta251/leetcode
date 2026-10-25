@@ -5,8 +5,7 @@ class Solution {
     public int[][] dp;
     public HashMap<Integer, Integer> size = new HashMap<>();
 
-    public int dfs(int[][] grid, int i, int j,
-                   boolean[][] vis, int id) {
+    public int dfs(int[][] grid, int i, int j, boolean[][] vis, int id) {
 
         if (i < 0 || j < 0 || i >= m || j >= n ||
             grid[i][j] == 0 || vis[i][j]) {
